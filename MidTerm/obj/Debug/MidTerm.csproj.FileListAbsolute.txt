@@ -1,0 +1,9 @@
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.exe.config
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.exe
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\bin\Debug\MidTerm.pdb
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.exe
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\obj\Debug\MidTerm.pdb
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\bin\Debug\Data.txt
+C:\Users\jstiles\source\repos\MidTerm\MidTerm\bin\Debug\SoccerGameResults.csv
